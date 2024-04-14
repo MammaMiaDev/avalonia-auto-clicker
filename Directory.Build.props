@@ -1,0 +1,9 @@
+<Project>
+    <PropertyGroup>
+        <Nullable>enable</Nullable>
+        <AvaloniaVersion>11.0.10</AvaloniaVersion>
+        <Version>0.0.1</Version>
+        <Company>MammaMiaDev</Company>
+        <AssemblyName>Auto Clicker</AssemblyName>
+    </PropertyGroup>
+</Project>
